@@ -1,0 +1,62 @@
+body{
+    background-color: #f9f9f9;
+}
+.icon {
+    position: absolute;
+    left: 69px;
+    top: 354px;
+    width: 276px;
+    height: 280px;
+  }
+
+  .codoba {
+    position: absolute;
+    left: 120px;
+    top: 98px;
+    width: 174px;
+    height: 55px;
+    /* background: #f9f9f9; */
+    background-blend-mode: normal;
+    color: #f9f9f9;
+    font-family: AVA;
+    font-size: 48px;
+    font-weight: 400;
+  }
+  
+  .rectangle {
+    position: absolute;
+    left: 120px;
+    top: 0px;
+    width: 174px;
+    height: 231px;
+    background: #3a8294;
+    background-blend-mode: normal;
+  }
+  .gmail {
+    position: absolute;
+    left: 294px;
+    top: 757px;
+    width: 50px;
+    height: 50px;
+  }
+  .github {
+    position: absolute;
+    left: 221px;
+    top: 757px;
+    width: 50px;
+    height: 50px;
+  }
+  .linkedin {
+    position: absolute;
+    left: 143px;
+    top: 757px;
+    width: 50px;
+    height: 50px;
+  }
+  .instagram {
+    position: absolute;
+    left: 70px;
+    top: 757px;
+    width: 50px;
+    height: 50px;
+  }  
